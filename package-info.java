@@ -1,1 +1,1 @@
-package errorsInJava;
+package learning;
